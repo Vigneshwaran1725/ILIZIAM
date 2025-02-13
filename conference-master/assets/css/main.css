@@ -89,6 +89,12 @@ ul li {
   outline: none;
 }
 
+.card {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 10px;
+}
+
 .btn {
   border: 0;
   border-radius: 0;
